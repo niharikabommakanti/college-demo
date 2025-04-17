@@ -1,4 +1,4 @@
 # college-demo
 This is Test Repository
 <br>
-Author- Niharika Bommakanti
+Author- Niharika (College)
